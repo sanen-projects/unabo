@@ -1,4 +1,4 @@
-![avatar](http://unabo.sanen.online/img/logo.41d2d27f.svg)
+<a href="http://unabo.sanen.online/" target="_blank"><img src="http://unabo.sanen.online/img/logo.41d2d27f.svg" /></a>
 # Unabo
 The Java™ progressive ORM framework
 
