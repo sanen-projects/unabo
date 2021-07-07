@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "unabo",
+  "type": "online.sanen.unabo.extend.spring.UnaboProperties",
+  "description": "Default.sqlite files are created in the project root directory when turned on by default."
+}]}
